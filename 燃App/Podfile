@@ -1,0 +1,11 @@
+# platform :ios, "7.0"
+use_frameworks!
+
+target '燃AppTests' do
+
+    pod 'MBProgressHUD', '~> 0.8'
+    pod 'SDWebImage', '~> 3.7.2'
+
+pod 'CYLTabBarController'
+pod 'MJRefresh'
+end

@@ -1,0 +1,23 @@
+PODS:
+  - CYLTabBarController (1.2.1)
+  - MBProgressHUD (0.9.2)
+  - MJRefresh (2.2.1)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+
+DEPENDENCIES:
+  - CYLTabBarController
+  - MBProgressHUD (~> 0.8)
+  - MJRefresh
+  - SDWebImage (~> 3.7.2)
+
+SPEC CHECKSUMS:
+  CYLTabBarController: 62ee700d59dc1f42777053e6254933f499ab4564
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MJRefresh: c3fa0387e8e97a11a9666639d2f815607edd1c2f
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+
+PODFILE CHECKSUM: 40c0a18ea07048a8614138e933b4184127fd84ff
+
+COCOAPODS: 1.0.0
